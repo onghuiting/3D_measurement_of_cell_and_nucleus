@@ -15,7 +15,7 @@ For enquiries, please contact:  biejly@nus.edu.sg, martin.kiwanuka@u.nus.edu, mb
 
 (1) extract_c1_for_nuc_seg.ijm 
 
-(2) cellpose 4 (Commands for running Cellpose in batch)
+(2) cellpose 4 (*Commands for running Cellpose in batch*)
 
 
 # Part 3: refine masks and measurement
@@ -26,6 +26,6 @@ For enquiries, please contact:  biejly@nus.edu.sg, martin.kiwanuka@u.nus.edu, mb
 
 (3) remove_cell_without_nuc.m
 
-* measure_volume_intensity2.ijm is for measurement without nucleus. In that case, Part 2(1) and Part 3(1),(2),(3) can be skipped.
+*measure_volume_intensity2.ijm is for measurement without nucleus. In that case, Part 2(1) and Part 3(1),(2),(3) can be skipped.*
 
 
